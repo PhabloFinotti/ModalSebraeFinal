@@ -1,0 +1,160 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 05/01/2021 20:07
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-facebook-1:before { content: "\f100"; }
+.flaticon-facebook-2:before { content: "\f101"; }
+.flaticon-instagram-1:before { content: "\f102"; }
+.flaticon-instagram-2:before { content: "\f103"; }
+.flaticon-youtube-1:before { content: "\f104"; }
+.flaticon-youtube-2:before { content: "\f105"; }
+.flaticon-linkedin-1:before { content: "\f106"; }
+.flaticon-linkedin-2:before { content: "\f107"; }
+.flaticon-twitter-1:before { content: "\f108"; }
+.flaticon-twitter-2:before { content: "\f109"; }
+.flaticon-pinterest-1:before { content: "\f10a"; }
+.flaticon-pinterest-2:before { content: "\f10b"; }
+.flaticon-whatsapp-1:before { content: "\f10c"; }
+.flaticon-whatsapp-2:before { content: "\f10d"; }
+.flaticon-vimeo-1:before { content: "\f10e"; }
+.flaticon-vimeo-2:before { content: "\f10f"; }
+.flaticon-flickr-1:before { content: "\f110"; }
+.flaticon-flickr-2:before { content: "\f111"; }
+.flaticon-spotify-1:before { content: "\f112"; }
+.flaticon-spotify-2:before { content: "\f113"; }
+.flaticon-blogger-1:before { content: "\f114"; }
+.flaticon-blogger-2:before { content: "\f115"; }
+.flaticon-anchor-fm:before { content: "\f116"; }
+.flaticon-phone-1:before { content: "\f117"; }
+.flaticon-phone-2:before { content: "\f118"; }
+.flaticon-phone-call-1:before { content: "\f119"; }
+.flaticon-phone-call-2:before { content: "\f11a"; }
+.flaticon-mail-1:before { content: "\f11b"; }
+.flaticon-mail-2:before { content: "\f11c"; }
+.flaticon-paper-plane-1:before { content: "\f11d"; }
+.flaticon-paper-plane-2:before { content: "\f11e"; }
+.flaticon-placeholder-1:before { content: "\f11f"; }
+.flaticon-placeholder-2:before { content: "\f120"; }
+.flaticon-settings-1:before { content: "\f121"; }
+.flaticon-settings-2:before { content: "\f122"; }
+.flaticon-calendar-1:before { content: "\f123"; }
+.flaticon-calendar-2:before { content: "\f124"; }
+.flaticon-comment-1:before { content: "\f125"; }
+.flaticon-comment-2:before { content: "\f126"; }
+.flaticon-clock-1:before { content: "\f127"; }
+.flaticon-clock-2:before { content: "\f128"; }
+.flaticon-user-1:before { content: "\f129"; }
+.flaticon-user-2:before { content: "\f12a"; }
+.flaticon-search-1:before { content: "\f12b"; }
+.flaticon-search-2:before { content: "\f12c"; }
+.flaticon-tag-1:before { content: "\f12d"; }
+.flaticon-tag-2:before { content: "\f12e"; }
+.flaticon-share:before { content: "\f12f"; }
+.flaticon-share-1:before { content: "\f130"; }
+.flaticon-folder:before { content: "\f131"; }
+.flaticon-folder-1:before { content: "\f132"; }
+.flaticon-shopping-cart:before { content: "\f133"; }
+.flaticon-arrow-up:before { content: "\f134"; }
+.flaticon-arrow-right:before { content: "\f135"; }
+.flaticon-arrow-down:before { content: "\f136"; }
+.flaticon-arrow-left:before { content: "\f137"; }
+.flaticon-next:before { content: "\f138"; }
+.flaticon-prev:before { content: "\f139"; }
+.flaticon-quote-right:before { content: "\f13a"; }
+.flaticon-quote-left:before { content: "\f13b"; }
+    
+    $font-Flaticon-facebook-1: "\f100";
+    $font-Flaticon-facebook-2: "\f101";
+    $font-Flaticon-instagram-1: "\f102";
+    $font-Flaticon-instagram-2: "\f103";
+    $font-Flaticon-youtube-1: "\f104";
+    $font-Flaticon-youtube-2: "\f105";
+    $font-Flaticon-linkedin-1: "\f106";
+    $font-Flaticon-linkedin-2: "\f107";
+    $font-Flaticon-twitter-1: "\f108";
+    $font-Flaticon-twitter-2: "\f109";
+    $font-Flaticon-pinterest-1: "\f10a";
+    $font-Flaticon-pinterest-2: "\f10b";
+    $font-Flaticon-whatsapp-1: "\f10c";
+    $font-Flaticon-whatsapp-2: "\f10d";
+    $font-Flaticon-vimeo-1: "\f10e";
+    $font-Flaticon-vimeo-2: "\f10f";
+    $font-Flaticon-flickr-1: "\f110";
+    $font-Flaticon-flickr-2: "\f111";
+    $font-Flaticon-spotify-1: "\f112";
+    $font-Flaticon-spotify-2: "\f113";
+    $font-Flaticon-blogger-1: "\f114";
+    $font-Flaticon-blogger-2: "\f115";
+    $font-Flaticon-anchor-fm: "\f116";
+    $font-Flaticon-phone-1: "\f117";
+    $font-Flaticon-phone-2: "\f118";
+    $font-Flaticon-phone-call-1: "\f119";
+    $font-Flaticon-phone-call-2: "\f11a";
+    $font-Flaticon-mail-1: "\f11b";
+    $font-Flaticon-mail-2: "\f11c";
+    $font-Flaticon-paper-plane-1: "\f11d";
+    $font-Flaticon-paper-plane-2: "\f11e";
+    $font-Flaticon-placeholder-1: "\f11f";
+    $font-Flaticon-placeholder-2: "\f120";
+    $font-Flaticon-settings-1: "\f121";
+    $font-Flaticon-settings-2: "\f122";
+    $font-Flaticon-calendar-1: "\f123";
+    $font-Flaticon-calendar-2: "\f124";
+    $font-Flaticon-comment-1: "\f125";
+    $font-Flaticon-comment-2: "\f126";
+    $font-Flaticon-clock-1: "\f127";
+    $font-Flaticon-clock-2: "\f128";
+    $font-Flaticon-user-1: "\f129";
+    $font-Flaticon-user-2: "\f12a";
+    $font-Flaticon-search-1: "\f12b";
+    $font-Flaticon-search-2: "\f12c";
+    $font-Flaticon-tag-1: "\f12d";
+    $font-Flaticon-tag-2: "\f12e";
+    $font-Flaticon-share: "\f12f";
+    $font-Flaticon-share-1: "\f130";
+    $font-Flaticon-folder: "\f131";
+    $font-Flaticon-folder-1: "\f132";
+    $font-Flaticon-shopping-cart: "\f133";
+    $font-Flaticon-arrow-up: "\f134";
+    $font-Flaticon-arrow-right: "\f135";
+    $font-Flaticon-arrow-down: "\f136";
+    $font-Flaticon-arrow-left: "\f137";
+    $font-Flaticon-next: "\f138";
+    $font-Flaticon-prev: "\f139";
+    $font-Flaticon-quote-right: "\f13a";
+    $font-Flaticon-quote-left: "\f13b";
